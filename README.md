@@ -1,5 +1,5 @@
 #   Project 52 Challenge
-Languages used: Go, Java<br>
+Languages used: Go, Java, Rust, Javascript<br>
 The challenge involves doing 52 projects for 52 weeks. I'll mainly be focusing on building projects using Go, Rust, Python and Java.
 Feel free to reach out to me with project ideas on twitter. Looking forward to cracking all your challenges and having a near mental breakdown 
 from compiler errors!😅 😂
