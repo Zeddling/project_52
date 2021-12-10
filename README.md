@@ -15,3 +15,4 @@ Rust
 1. [Cornway's Game of Life](https://github.com/Zeddling/wasm-game-of-life)
 2. [Graph is cyclic](https://github.com/Zeddling/graphs)
 3. [Djikstra Shortest Path](https://github.com/Zeddling/djikstra)
+4. [Simple FTP Server](https://github.com/Zeddling/rust_ftp)
